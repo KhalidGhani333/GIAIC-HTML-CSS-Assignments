@@ -1,0 +1,30 @@
+
+body{
+    font-family:system-ui, -apple-system, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1{
+    color: blue;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgb(8, 79, 233);
+}
+h3{
+    color:blue;
+    text-shadow:2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+ul li{
+    line-height: 30px;
+    text-decoration: underline;
+    list-style-type: circle;
+}
+ul li:hover{
+    color: blue;
+    cursor: pointer;
+}
+span{
+    font-size: x-large;
+}
+h4{
+    color:blue;
+    text-shadow:2px 2px 5px rgba(0, 0, 0, 0.5);
+}
