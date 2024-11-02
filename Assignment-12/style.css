@@ -163,10 +163,10 @@ span{
 }
 @keyframes slideimages {
     0%{background-image: url(./images/slideimage1.pic);}
-    20%{background-image: url(./images/slideimage2.pic);}
-    40%{background-image: url(./images/slideimage3.pic);}
-    60%{background-image: url(./images/slideimage4.pic);}
-    80%{background-image: url(./images/slideimage5.pic);}
+   
+    25%{background-image: url(./images/slideimage3.pic);}
+    50%{background-image: url(./images/slideimage4.pic);}
+    75%{background-image: url(./images/slideimage5.pic);}
     100%{background-image: url(./images/slideimage6.pic);}
     
     
